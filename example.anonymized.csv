@@ -1,0 +1,4 @@
+name,email,phone,ip,city,customer_id
+person bb67b90e8ebe,user.5358789f948a@example34d8e.invalid,+9315633026,198.51.100.3,Demo-City,TEST-001
+person 8c29fd689c9c,user.fa7b155bcc6b@example34d8e.invalid,+2669913010,198.51.100.173,Demo-Town,TEST-002
+person bb67b90e8ebe,user.5358789f948a@example34d8e.invalid,+9315633026,198.51.100.3,Demo-City,TEST-003
