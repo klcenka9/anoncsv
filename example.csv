@@ -1,0 +1,4 @@
+name,email,phone,ip,city,customer_id
+Demo User A,person1@example.invalid,+0000000001,198.51.100.10,Demo-City,TEST-001
+Demo User B,person2@example.invalid,+0000000002,198.51.100.11,Demo-Town,TEST-002
+Demo User A,person1@example.invalid,+0000000001,198.51.100.10,Demo-City,TEST-003
