@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anoncsv"
+version = "0.1.0"
+description = "Local, deterministic anonymization of CSV data"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+authors = [{ name = "anoncsv contributors" }]
+dependencies = []
+
+[project.optional-dependencies]
+excel = ["openpyxl>=3.1"]
+
+[project.scripts]
+anoncsv = "anoncsv:main"
+
+[tool.setuptools]
+py-modules = ["anoncsv", "webapp"]
+
+[tool.pytest.ini_options]
+testpaths = ["test_anoncsv.py"]
