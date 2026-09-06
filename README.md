@@ -1,4 +1,4 @@
-# anoncsv
+# <span style="color:#d65b3d">anoncsv</span>
 
 Malý open-source CLI nástroj pro anonymizaci citlivých hodnot v CSV souborech.
 Data se zpracovávají pouze lokálně a původní vstupní soubor se nikdy nepřepisuje.
